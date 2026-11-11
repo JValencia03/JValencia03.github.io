@@ -1,5 +1,4 @@
-User-agent: *
+User-Agent: *
 Allow: /
-Disallow: /admin/
 
-Sitemap: https://lcdr.church/sitemap-index.xml
+Sitemap: https://jvalencia03.github.io/sitemap.xml

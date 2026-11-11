@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+5:"/_next/static/chunks/0a6t84_kr-0m1.js"
+6:I[75539,["$5"],"default"]
+7:I[49183,["$5"],"default"]
+b:I[87331,["$5"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[87331,["$5"],"$f"]
+11:"MetadataBoundary"
+12:I[87331,["$5"],"$11"]
+13:I[88018,["$5"],"IconMark"]
+:HL["/_next/static/chunks/3xlt707wg9d94.css","style"]
+3:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[null,null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$3"}}]]
+4:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$3"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3xlt707wg9d94.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0a6t84_kr-0m1.js","async":true}]],["$","html",null,{"lang":"en","className":"VkpoeG_variable L54rSq_variable fgKKMq_variable antialiased","children":["$","body",null,{"children":[["$","div",null,{"aria-hidden":"true","className":"atmosphere"}],["$","main",null,{"className":"section","children":["$","div",null,{"className":"section-inner flex flex-col items-center justify-center gap-12 text-center","children":[["$","p",null,{"className":"font-mono text-sm tracking-widest text-fog-400","children":"404"}],[["$","div","en",{"lang":"en","children":[["$","h1",null,{"className":"font-display text-3xl font-bold tracking-tight md:text-5xl","children":"Page not found"}],["$","p",null,{"className":"mt-3 text-fog-300","children":"The page you are looking for does not exist."}],["$","a",null,{"href":"/en","className":"btn btn-ghost mt-6","children":"Back to the portfolio"}]]}],["$","div","es",{"lang":"es","children":[["$","h1",null,{"className":"font-display text-3xl font-bold tracking-tight md:text-5xl","children":"Página no encontrada"}],["$","p",null,{"className":"mt-3 text-fog-300","children":"La página que buscas no existe."}],["$","a",null,{"href":"/es","className":"btn btn-ghost mt-6","children":"Volver al portfolio"}]]}]]]}]}]]}]}]]}],"p":"$@2","v":null,"s":"$3"},"c":"$Q4"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Page not found · Juan F. Valencia"}],["$","meta","1",{"name":"description","content":"The page you are looking for does not exist."}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.240eob9vn2i6y.svg","sizes":"any","type":"image/svg+xml"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$3"}},"a":"$@15","u":"$@16","b":"qKVRlLkvbs5nkP4oR1f3z"}
+d:null
+3:300
+16:true
+3:C
+15:0
+8:"$undefined"
+2:"$undefined"
+14:"$undefined"
+e:"$undefined"

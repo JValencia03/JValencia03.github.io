@@ -1,0 +1,20 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/0a6t84_kr-0m1.js"
+5:I[87331,["$4"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:"ViewportBoundary"
+b:I[87331,["$4"],"$a"]
+c:"MetadataBoundary"
+d:I[87331,["$4"],"$c"]
+e:I[88018,["$4"],"IconMark"]
+9:X
+2:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$3","c",{"children":[null,null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"p":"$@8","v":null,"s":"$9"}}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#050506"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$Ld",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Juan F. Valencia — Full Stack Developer"}],["$","meta","1",{"name":"description","content":"Portfolio of Juan F. Valencia, Full Stack Developer."}],["$","meta","2",{"name":"application-name","content":"Juan F. Valencia"}],["$","meta","3",{"name":"author","content":"Juan F. Valencia"}],["$","meta","4",{"name":"creator","content":"Juan F. Valencia"}],["$","link","5",{"rel":"canonical","href":"https://jvalencia03.github.io/en/"}],["$","link","6",{"rel":"alternate","hrefLang":"en","href":"https://jvalencia03.github.io/en/"}],["$","link","7",{"rel":"alternate","hrefLang":"es","href":"https://jvalencia03.github.io/es/"}],["$","link","8",{"rel":"alternate","hrefLang":"x-default","href":"https://jvalencia03.github.io/en/"}],["$","meta","9",{"property":"og:title","content":"Juan F. Valencia — Full Stack Developer"}],["$","meta","10",{"property":"og:description","content":"Portfolio of Juan F. Valencia, Full Stack Developer."}],["$","meta","11",{"property":"og:url","content":"https://jvalencia03.github.io/en/"}],["$","meta","12",{"property":"og:site_name","content":"Juan F. Valencia"}],["$","meta","13",{"property":"og:locale","content":"en_US"}],["$","meta","14",{"property":"og:locale:alternate","content":"es_ES"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary"}],["$","meta","17",{"name":"twitter:title","content":"Juan F. Valencia — Full Stack Developer"}],["$","meta","18",{"name":"twitter:description","content":"Portfolio of Juan F. Valencia, Full Stack Developer."}],["$","link","19",{"rel":"icon","href":"/icon.svg?icon.240eob9vn2i6y.svg","sizes":"any","type":"image/svg+xml"}],["$","$Le","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@f","v":null,"s":"$9"}},"a":"$@10","u":"$@11","b":"qKVRlLkvbs5nkP4oR1f3z"}
+7:null
+11:true
+9:300
+9:C
+10:0
+f:"$undefined"
+8:"$undefined"
