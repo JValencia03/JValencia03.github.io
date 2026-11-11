@@ -1,0 +1,62 @@
+# 301 redirects from legacy WordPress URLs (see docs/redirects.md).
+# Format: <from> <to> <status>. Served by Cloudflare (Workers Static Assets / Pages).
+
+# Typo in the legacy slug
+/credros-music/ /cedros-music/ 301
+/credros-music /cedros-music/ 301
+
+# Front page and empty/demo pages
+/home-2/ / 301
+/home-2 / 301
+/blog-2/ / 301
+/blog-2 / 301
+/messages/ / 301
+/messages / 301
+/eventer-shortcode-preview-page/ / 301
+/refund_returns/ / 301
+
+# GiveWP (donations) -> /dar/
+/donations/donation-form/ /dar/ 301
+/donations/* /dar/ 301
+/donations /dar/ 301
+/confirmation-de-donacion/ /dar/gracias/ 301
+/confirmation-de-donacion /dar/gracias/ 301
+/donacion-fallida/ /dar/ 301
+/donacion-fallida /dar/ 301
+/donor-dashboard/ /dar/ 301
+/donor-dashboard /dar/ 301
+
+# Eventer -> /eventos/
+/eventer/* /eventos/ 301
+/eventer /eventos/ 301
+/eventer-category/* /eventos/ 301
+/eventer-venue/* /eventos/ 301
+/eventer-organizer/* /eventos/ 301
+
+# iSermons (demo content)
+/imi_sermon/* / 301
+/imi_sermon-series/* / 301
+/imi_sermon-books/* / 301
+/imi_sermon-topics/* / 301
+/imi_sermon-preachers/* / 301
+/imi_sermon-categories/* / 301
+
+# WooCommerce (demo content)
+/shop/ / 301
+/shop-2/ / 301
+/cart/ / 301
+/cart-2/ / 301
+/checkout/ / 301
+/checkout-2/ / 301
+/my-account/ / 301
+/my-account-2/ / 301
+/product/* / 301
+/product-category/* / 301
+
+# WordPress sitemaps and feeds
+/sitemap.xml /sitemap-index.xml 301
+/sitemap_index.xml /sitemap-index.xml 301
+/wp-sitemap.xml /sitemap-index.xml 301
+/page-sitemap.xml /sitemap-index.xml 301
+/feed/ / 301
+/comments/feed/ / 301
